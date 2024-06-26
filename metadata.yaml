@@ -1,0 +1,29 @@
+_repo: Etelamere-auringon-alla_73817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: https://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2024-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73817'
+language: fi
+pgterms:marc905: 20240602231914london
+pgterms:marc906: '1970'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bArena-kirja, $c1970.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Etelämere auringon alla
+url: http://www.gutenberg.org/ebooks/73817
